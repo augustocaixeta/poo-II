@@ -1,0 +1,14 @@
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\bo\ClienteBO.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\bo\FornecedorBO.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\connection_factory\BD_MySQL_Clientes.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\connection_factory\BD_Postgres_Clientes.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\connection_factory\ClienteConexaoFactory.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\connection_factory\ConexaoBDFactory.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\connection_factory\ConexaoMySQL.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\connection_factory\ConexaoPostgres.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\dao\ClienteDAO.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\dao\FornecedorDAO.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\forms\FormCadastroCliente.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\forms\FormCadastroFornecedor.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\forms\FormPrincipal.java
+C:\Users\IFTM\Documents\NetBeansProjects\Prj_AACS_ProvaII\src\main\java\com\aacs\main\Principal.java
